@@ -861,13 +861,14 @@
     display: block;
   }
   .burger {
-    display: block;
-    width: 20px;
-    height: 20px;
-    position: absolute;
-    right: 15px;
-    top: 15px;
-    z-index: 10;
+	display: block;
+		width: 24px;
+		height: 30px;
+		position: absolute;
+		right: 15px;
+		top: 10px;
+		z-index: 10;
+		padding: 5px 0;
   }
   .burger span {
     display: block;
