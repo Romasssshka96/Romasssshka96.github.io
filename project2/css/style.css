@@ -863,12 +863,12 @@
   .burger {
 	display: block;
 		width: 24px;
-		height: 40px;
+		height: 48px;
 		position: absolute;
 		right: 15px;
 		top: 0px;
 		z-index: 10;
-		padding: 10px 0;
+		padding: 14px 0;
   }
   .burger span {
     display: block;
